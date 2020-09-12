@@ -1,0 +1,486 @@
+{
+    "protein": {
+        "chicken_breast": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 120,
+            "protein": 23,
+            "carbs": 0,
+            "fat": 3
+        },
+        "chicken_thigh": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 121,
+            "protein": 20,
+            "carbs": 0,
+            "fat": 4
+        },
+        "ground_beef_lean": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 152,
+            "protein": 21,
+            "carbs": 0,
+            "fat": 7
+        },
+        "ground_turkey":  {
+            "unit": "g",
+            "amount": 100,
+            "calories": 150,
+            "protein": 19,
+            "carbs": 0,
+            "fat": 8
+        },
+        "plain_nonfat_greek_yogurt": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 59,
+            "protein": 10,
+            "carbs": 4,
+            "fat": 0
+        },
+        "sirloin_trimmed_of_visible_fat": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 127,
+            "protein": 22,
+            "carbs": 0,
+            "fat": 4
+        },
+        "cottag_cheese": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 72,
+            "protein": 12,
+            "carbs": 3,
+            "fat":1
+        },
+        "skim milk": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 34,
+            "protein": 3,
+            "carbs": 5,
+            "fat": 0
+        },
+        "whey_protein_isolate": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 345,
+            "protein": 76,
+            "carbs": 10,
+            "fat": 0
+        },
+        "whole_egg": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 143,
+            "protein": 13,
+            "carbs": 1,
+            "fat": 10
+        }
+    },
+    "carbs": {
+        "sweet_potato": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 86,
+            "protein": 2,
+            "carbs": 20,
+            "fat": 0
+        },
+        "potato": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 69,
+            "protein": 2,
+            "carbs": 16,
+            "fat": 0
+        },
+        "white_pasta": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 371,
+            "protein": 13,
+            "carbs": 75,
+            "fat": 2
+        },
+        "white_rice": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 365,
+            "protein": 7,
+            "carbs": 80,
+            "fat": 1
+        },
+        "brown_rice": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 367,
+            "protein": 8,
+            "carbs": 76,
+            "fat": 3
+        },
+        "white_bread": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 266,
+            "protein": 9,
+            "carbs": 49,
+            "fat": 3
+        },
+        "pearled_barley" : { 
+            "unit": "g",
+            "amount": 100,
+            "calories": 352,
+            "protein": 10,
+            "carbs": 78,
+            "fat": 1
+        },
+        "oatmeal" : {
+            "unit": "g",
+            "amount": 100,
+            "calories": 379,
+            "protein": 13,
+            "carbs": 68,
+            "fat": 7
+        },
+        "quinoa": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 368,
+            "protein": 14,
+            "carbs": 64,
+            "fat": 6
+        },
+        "lentil": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 352,
+            "protein": 25,
+            "carbs": 63,
+            "fat": 1
+        }
+    },
+    "fat" :{
+        "avacado": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 160,
+            "protein": 2,
+            "carbs": 9,
+            "fat": 15
+        },
+        "almond": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 579,
+            "protein": 21,
+            "carbs": 22,
+            "fat": 50
+        },
+        "walnut": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 619,
+            "protein": 24,
+            "carbs": 10,
+            "fat": 59
+        },
+        "dark_chocolate" :{
+            "unit": "g",
+            "amount": 100,
+            "calories": 598,
+            "protein": 8,
+            "carbs": 46,
+            "fat": 43
+        },
+        "creamy_peanut_butter": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 598,
+            "protein": 22,
+            "carbs": 22,
+            "fat": 51
+        },
+        "olive_oil": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 884,
+            "protein": 0,
+            "carbs": 0,
+            "fat": 100
+        },
+        "canola_oil": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 884,
+            "protein": 0,
+            "carbs": 0,
+            "fat": 100
+        },
+        "butter": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 717,
+            "protein": 1,
+            "carbs": 0,
+            "fat": 81
+        },
+        "half_and_half": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 131,
+            "protein": 3,
+            "carbs": 4,
+            "fat": 12
+        },
+        "cheddar_cheese": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 403,
+            "protein": 23,
+            "carbs": 3,
+            "fat": 33
+        }
+    },
+    "fruits": {
+        "banana": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 89,
+            "protein": 1,
+            "carbs": 23,
+            "fat": 0
+        },
+        "grape": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 69,
+            "protein": 1,
+            "carbs": 18,
+            "fat": 0
+        },
+        "strawberry": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 32,
+            "protein": 1,
+            "carbs": 8,
+            "fat": 0
+        },
+        "watermelon": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 30,
+            "protein": 1,
+            "carbs": 8,
+            "fat": 0
+        },
+        "orange":{
+            "unit": "g",
+            "amount": 100,
+            "calories": 47,
+            "protein": 1,
+            "carbs": 12,
+            "fat": 0
+        },
+        "pear": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 57,
+            "protein": 0,
+            "carbs": 15,
+            "fat": 0
+        },
+        "bluebery": {
+            "unit": "g",
+            "amount": 100,
+            "calories":57,
+            "protein": 1,
+            "carbs": 15,
+            "fat": 0
+        },
+        "apple": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 52,
+            "protein": 0,
+            "carbs": 14,
+            "fat": 0
+        },
+        "raspberry": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 52,
+            "protein": 1,
+            "carbs": 12,
+            "fat": 0
+        },
+        "cantaloupe": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 34,
+            "protein": 1,
+            "carbs": 8,
+            "fat": 0
+        }
+    },
+    "veggies": {
+        "broccoli": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 34,
+            "protein": 3,
+            "carbs": 7,
+            "fat": 0
+        },
+        "zucchini": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 17,
+            "protein": 1,
+            "carbs": 3,
+            "fat": 0
+        },
+        "carrot": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 41,
+            "protein": 1,
+            "carbs": 10,
+            "fat": 0
+        },
+        "brussels_sprout": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 43,
+            "protein": 3,
+            "carbs": 9,
+            "fat": 0
+        },
+        "lettuce": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 17,
+            "protein": 1,
+            "carbs": 3,
+            "fat": 0
+        },
+        "tomato": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 18,
+            "protein": 1,
+            "carbs": 4,
+            "fat": 0
+        },
+        "green_bean": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 31,
+            "protein": 2,
+            "carbs": 0,
+            "fat": 0
+        },
+        "onion": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 40,
+            "protein": 1,
+            "carbs": 9,
+            "fat": 0
+        },
+        "mushroom": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 22,
+            "protein": 3,
+            "carbs": 3,
+            "fat": 0
+        },
+        "asparagus": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 20,
+            "protein": 2,
+            "carbs": 4,
+            "fat": 0
+        }
+    },
+    "condiments": {
+        "mayonnaise": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 680,
+            "protein": 1,
+            "carbs": 1,
+            "fat": 75
+        },
+        "ketchup": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 101,
+            "protein": 1,
+            "carbs": 27,
+            "fat": 0
+        },
+        "pesto": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 418,
+            "protein": 10,
+            "carbs": 10,
+            "fat": 38
+        },
+        "mustard": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 60,
+            "protein": 4,
+            "carbs": 6,
+            "fat": 3
+        },
+        "horseradish": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 48,
+            "protein": 1,
+            "carbs": 11,
+            "fat": 1
+        },
+        "balsamic_vineger": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 88,
+            "protein": 0,
+            "carbs": 17,
+            "fat": 0
+        },
+        "soy_sauce": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 60,
+            "protein": 11,
+            "carbs": 6,
+            "fat": 0
+        },
+        "tabasco_sauce": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 12,
+            "protein": 1,
+            "carbs": 1,
+            "fat": 1
+        },
+        "sriaracha_sauce": {
+            "unit": "g",
+            "amount": 100,
+            "calories": 93,
+            "protein": 2,
+            "carbs": 19,
+            "fat": 1
+        }
+    }
+}
